@@ -7,7 +7,7 @@ A fun Python script that generates random excuses for why you can't go to work (
 Run the script:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 Output example:
